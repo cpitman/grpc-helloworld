@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-package service;
+package servicepb;
 
 import "google/api/annotations.proto";
 
